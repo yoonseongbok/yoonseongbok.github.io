@@ -1,4 +1,2 @@
 remote_theme: benbalter/retlab
 include: [".well-known"]
-
-theme: jekyll-theme-cayman
