@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "5466AAM8ZK.com.c2c.dev",
+                "paths": [ "/launchApp" ]
+            },
+            {
+                "appID": "U6VV7FMD97.com.navercorp.c2c.ent",
+                "paths": [ "/launchApp" ]
+            },
+            {
+                "appID": "RSH35T37GH.com.naverjhub.vcity",
+                "paths": [ "/launchApp" ]
+            }
+        ]
+    }
+}
