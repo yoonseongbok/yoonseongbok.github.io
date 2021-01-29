@@ -1,9 +1,26 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.naverjhub.vcity",
-    "sha256_cert_fingerprints":
-    ["E6:82:FE:0B:CD:60:90:7D:FE:D5:15:E0:B8:A4:DE:03:AA:1C:28:1D:11:1A:07:83:39:86:60:2B:60:98:AF:D2"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.naverjhub.vcity",
+      "sha256_cert_fingerprints": [
+        "E6:82:FE:0B:CD:60:90:7D:FE:D5:15:E0:B8:A4:DE:03:AA:1C:28:1D:11:1A:07:83:39:86:60:2B:60:98:AF:D2"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.naverjhub.vcity",
+      "sha256_cert_fingerprints": [
+        "3D:14:D0:E2:A0:8D:0A:85:B1:DD:6C:A0:6D:A2:94:88:DF:1A:FE:74:70:FC:16:25:03:0A:90:CC:A4:5C:63:0A"
+      ]
+    }
   }
-}]
+]
